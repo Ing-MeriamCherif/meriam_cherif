@@ -32,13 +32,9 @@ MeriamCherif@github:~$ echo "Future Software Engineer"
 ## 🧠 AI Agents, LLMs & Computer Vision
 
 <p>
-  <img src="https://skillicons.dev/icons?i=opencv" />
+  <img src="https://skillicons.dev/icons?i=opencv,huggingface,roboflow,mediapipe,yolo" />
 </p>
 
-* Hugging Face
-* Roboflow
-* MediaPipe
-* YOLO (Ultralytics)
 
 ## 🌐 Full-Stack Development
 

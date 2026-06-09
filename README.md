@@ -8,11 +8,9 @@
 
 </div>
 
----
-
-```bash
-MeriamCherif@github:~$ echo "Future Software Engineer"
-```
+<div align="center">
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF00&background=0D1117&center=true&vCenter=true&width=600&height=80&lines=Computer+Science+Student+%7C+AI+Engineer;%3EMeriam%40github%3A~%24+echo+'AI+Engineer'" />
+</div>
 
 ### 🚀 About Me
 
@@ -33,6 +31,13 @@ MeriamCherif@github:~$ echo "Future Software Engineer"
 
 <p>
   <img src="https://skillicons.dev/icons?i=opencv,huggingface,roboflow,mediapipe,yolo" />
+ ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+![Roboflow](https://img.shields.io/badge/Roboflow-6706CE?style=for-the-badge)
+
+![MediaPipe](https://img.shields.io/badge/MediaPipe-4285F4?style=for-the-badge)
+
+![YOLO](https://img.shields.io/badge/YOLO-111111?style=for-the-badge)
 </p>
 
 
